@@ -1,0 +1,23 @@
+{
+  "name": "tuto-node",
+  "version": "1.0.0",
+  "description": "== Hey this is some examples for node ==",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikcore/Tuto-Node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rikcore/Tuto-Node.js/issues"
+  },
+  "homepage": "https://github.com/Rikcore/Tuto-Node.js#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
